@@ -833,6 +833,11 @@ services
   margin: 0 auto 20px auto; /* Center the text and add bottom margin */
   max-width: 400px; /* Limit the width to prevent excessive stretching */.
 }
+.services .service-item p:hover {
+
+  color: #20B2AA;
+
+}
 
 /* Responsive adjustments */
 @media (max-width: 767px) {

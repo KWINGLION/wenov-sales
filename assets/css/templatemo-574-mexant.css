@@ -831,7 +831,7 @@ services
   line-height: 26px;
   color: #212741;
   margin: 0 auto 20px auto; /* Center the text and add bottom margin */
-  max-width: 400px; /* Limit the width to prevent excessive stretching */
+  max-width: 400px; /* Limit the width to prevent excessive stretching */.
 }
 
 /* Responsive adjustments */
